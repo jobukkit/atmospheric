@@ -6,7 +6,7 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:wheat"
+      "tag": "forge:grain"
     },
     "X": {
       "item": "atmospheric:yucca_flower"

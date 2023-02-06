@@ -10,7 +10,7 @@
       "item": "atmospheric:passionfruit"
     },
     "X": {
-      "item": "minecraft:egg"
+      "tag": "forge:dough"
     }
   },
   "result": {
